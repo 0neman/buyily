@@ -1,0 +1,18 @@
+.body{
+    padding: 20px 25px;
+}
+
+.title > h3{
+    text-align: left;
+    color: #638ECB;
+}
+
+.title {
+    padding: 15px 0px;
+}
+
+.body__offers{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}

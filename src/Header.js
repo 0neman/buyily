@@ -1,5 +1,6 @@
-import React from 'react'
-import './Header.css'
+import React from 'react';
+import './Header.css';
+import logo from './assets/BuyiLy.svg'
 import MenuRoundedIcon from '@mui/icons-material/MenuRounded';
 import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined';
 
@@ -9,7 +10,7 @@ function Header() {
 
         <div className='header__top'>
             <MenuRoundedIcon/>
-            <h1>BUYILY</h1>
+            <img src={logo} alt="" />
             <AccountCircleOutlinedIcon/>
         </div>
 

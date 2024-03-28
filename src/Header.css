@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Outfit:wght@400;500;600;700&display=swap");
 
 .header{
-    padding: 0px 20px;
+    padding: 10px 20px;
     display: flex;
     flex-direction: column;
     color: #395886;
@@ -14,45 +14,43 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 15px;
 }
 
 .header__top > .MuiSvgIcon-root{
-    font-size: 45px;
+    font-size: xx-large;
     cursor: pointer;
-}
-
-.header__top > h1{
     margin: 0;
     padding: 0;
 }
 
-h1{
-    cursor: pointer;
-    font-family: 'Bungee Shade';
-    font-weight: 700;
-    font-size: xx-large;
-}
 
 .header__bottom{
     display: flex;
     justify-content: space-evenly;
-    flex: 1;
+    align-items: center;
+    padding: 10px 0px;
     margin-top: 10px;
-    padding: 5px 10px;
+
 }
 
 h3{
     margin: 0;
     padding: 0;
     background-color: transparent;
+    text-align: center;
 }
 
 .header__option{
     padding: 15px 20px;
     cursor: pointer;
+    text-align: center;
+    border: 1px solid transparent;
 }
 
 .header__option:hover{
-    background-color: #B1C9EF ;
     border-radius: 10px;
+    border: 1px solid #395886 ;
+    padding: 15px 20px;
+    text-align: center;
 }
