@@ -11,6 +11,9 @@
     align-items: end;
     margin-right: 15px;
 }
+.offers{
+    object-fit: contain;
+}
 
 h4{
     background-color: transparent;

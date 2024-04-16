@@ -13,6 +13,14 @@
 
 .body__offers{
     display: flex;
-    justify-content: space-evenly;
-    width: 100%;
+    gap: 2;
+}
+
+.body__offers{
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.body__offers::-webkit-scrollbar{
+    display: none;
 }

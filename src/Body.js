@@ -26,6 +26,18 @@ function Body() {
         name={'snekers'} />
         <Offers image={'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg'}
         name={'snekers'} />
+        <Offers image={'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg'}
+        name={'snekers'} description={'Commodo nulla dolor sit sit incididunt ipsum elit cupidatat anim cupidatat dolore voluptate adipisicing nulla.'}
+        price={'200$'} 
+        />
+        <Offers image={'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg'}
+        name={'snekers'} />
+        <Offers image={'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg'}
+        name={'snekers'} />
+        <Offers image={'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg'}
+        name={'snekers'} />
+        <Offers image={'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg'}
+        name={'snekers'} />
 
       </div>
 
